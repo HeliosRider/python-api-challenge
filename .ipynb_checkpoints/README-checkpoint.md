@@ -26,3 +26,5 @@ Deliverable #2 (VacationPy)
 4. For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
 5. Add the hotel name and the country as additional information in the hover message for each city on the map
 
+*Note*
+All figures and plots are located in the output_data file.
